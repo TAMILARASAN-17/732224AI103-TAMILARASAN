@@ -1,9 +1,13 @@
 ->signin your account
 
-->include schedule trigger
+->include onform submission
 
-->include send mail with your mail id
+->include append row
+
+->include google sheets trigger
+
+->include mail
 
 #SCREENSHOT:
 
-<img width="775" height="212" alt="image" src="https://github.com/user-attachments/assets/2443cfc5-6859-4b50-851d-efb78d78648b" />
+<img width="409" height="357" alt="image" src="https://github.com/user-attachments/assets/bd1a08db-3369-4ae0-a333-b16d9ffab239" />
